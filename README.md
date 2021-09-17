@@ -1,5 +1,7 @@
 # Instructions For Installing
-<li>Clone This Project </li>
+<li>Clone This Project From This Repo Link --> https://github.com/hatemhos11/MyRead-App.git </li>
+<li>Install All Dependencies From Package.json File By Commad "npm install" </li>
+<li>Run "npm start" To Launch The Project</li>
 
 ## The Book App 
 <li>You Can Search About Your Favourit Book and save it</li>
